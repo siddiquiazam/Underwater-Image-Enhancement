@@ -2,7 +2,7 @@
 
 
 
-MATLAB Fusion:
+## MATLAB Fusion:
 
     -Download the MATLAB Fusion folder
     
@@ -11,7 +11,7 @@ MATLAB Fusion:
     -test.m is the source code to implement MATLAB Fusion on all the input images 
      simultaneously in a loop.
 
-To run for individual images:
+### To run for individual images:
     
     - Open imageproject.m in MATLAB
     - Copy the image you want to enhance in the input folder
@@ -21,7 +21,7 @@ To run for individual images:
       windows step by step, output image will be saved as png file in the folder specified
       in the previous step.
     
- To run the code for all the images simultaneously:
+ ### To run the code for all the images simultaneously:
     
     - Open test.m in MATLAB
     - Copy the images you want to enhance in the input folder

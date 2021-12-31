@@ -66,7 +66,7 @@
  
  ### Image Fusion using MATLAB:
  
- ![image](https://user-images.githubusercontent.com/60934824/147821500-2f412eff-0210-445a-b6b7-929a89a97c33.png)
+![image](https://user-images.githubusercontent.com/60934824/147821518-c20e3e7b-6c00-47f4-b86f-5ae0bafcb702.png)
 
 
 

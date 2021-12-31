@@ -49,3 +49,24 @@
     - In line 79, set the desired output folder path to save the output images.
     - Run the program, all the images will be saved as png file in the folder specified in
       the previous step.
+      
+ ## Results:
+ 
+ ### Gamma Correction: 
+
+ ![image](https://user-images.githubusercontent.com/60934824/147821419-cdbbef89-f553-4d5a-8a56-d9354baa7287.png)
+
+ ### Histogram Equalization: 
+ 
+ ![image](https://user-images.githubusercontent.com/60934824/147821466-b6dcb958-2acf-4022-a324-b3c5310197f9.png)
+ 
+ ### Integrated Color Model: 
+ 
+ ![image](https://user-images.githubusercontent.com/60934824/147821482-720e21b5-9711-40f1-b53d-6adfa237e7ac.png)
+ 
+ ### Image Fusion using MATLAB:
+ 
+ ![image](https://user-images.githubusercontent.com/60934824/147821500-2f412eff-0210-445a-b6b7-929a89a97c33.png)
+
+
+

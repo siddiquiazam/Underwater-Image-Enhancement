@@ -3,16 +3,16 @@
 ## Install
 
    You will need to install the following libraries:
-    * python = 3.6
-    * cv2
-    * numpy
-    * scipy
-    * matplotlib
-    * scikit-image
-    * natsort
-    * math
-    * datetime
-    * MATLAB
+    *python = 3.6
+    *cv2
+    *numpy
+    *scipy
+    *matplotlib
+    *scikit-image
+    *natsort
+    *math
+    *datetime
+    *MATLAB
 
 ## Running
 

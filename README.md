@@ -2,7 +2,7 @@
 
 ## Install
 
-    - You will need to install the following libraries:
+   You will need to install the following libraries:
     * python = 3.6
     * cv2
     * numpy
@@ -12,7 +12,6 @@
     * natsort
     * math
     * datetime
-    
     * MATLAB
 
 ## Running

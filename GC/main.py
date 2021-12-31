@@ -19,7 +19,7 @@ files =  natsort.natsorted(files)
 
 for i in range(len(files)):
     file = files[i]
-    filepath = path + "/" + file
+    filepath = path + "/" + file 
     prefix = file.split('.')[0]
     if os.path.isfile(filepath):
         print('********    file   ********',file)

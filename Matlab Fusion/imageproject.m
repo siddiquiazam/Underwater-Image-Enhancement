@@ -63,7 +63,7 @@ title('III. Sharpened');
 
 XFUS = wfusimg(I,J,'sym4',5,'max','max');
 
-figure('Name','Final Comparison');
+figure('Name', 'Final Comparison');
 subplot(121);
 imshow(rgbImage);
 title('Original');
